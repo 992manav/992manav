@@ -61,4 +61,4 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/992manav/992manav/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/992manav/992manav/output/snake.svg](https://raw.githubusercontent.com/rjn32s/rjn32s/output/snake.svg)" alt="Snake animation" />
