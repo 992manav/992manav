@@ -16,7 +16,6 @@
 
 <h3 align="left">🛠️ My Tech Toolbox</h3>
 
-<img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 
 <div align="left">
   <!-- Languages -->
